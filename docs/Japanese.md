@@ -29,38 +29,50 @@ Cookieは、匿名の一意の識別子として一般的に使用される少�
 これらのCookieを受け入れるか拒否するかを選択し、Cookieがデバイスに送信するか否かを選択することが出来ます。
 もし、Cookieを拒否することを選択した場合、本サービスの一部を使用できない場合があります。
 
-### Service Providers
+### サービスプロバイダー
 
-I may employ third-party companies and individuals due to the following reasons:
+以下の理由により、第三者の会社や個人を雇用する場合があります。
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*当アプリのサービスを促進するため。
+*当方に代わってサービスを提供するため。
+*当アプリ関連のサービスを実行するため。
+*当アプリのサービスがどのように使用されているか分析するのを支援するため。
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+これらの第三者は、当方に代わってサービスを提供するため、当アプリご利用のお客様の個人情報を使用することがあります。
+ただし、他の目的で情報を開示または使用することはいたしません。
 
-### Security
+### セキュリティ
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+当方は、個人情報の漏洩や滅失又は棄損を防止するために。適切なセキュリティ対策を実施して個人情報を保護します。
+ただし、インターネットを介した送信方法や電子ストレージの方法は100％安全で信頼できるものではなく、絶対的なセキュリティを保証することはできません。
 
-### Links to Other Sites
+### 他のサイトへのリンク
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+当アプリには、他のサイトへのリンクが含まれている場合があります。サードパーティのリンクをクリックすると、そのサイトに移動します。これらの外部サイトは当方が運営していないことに注意してください。
+したがって、これらの外部Webサイトのプライバシーポリシーを確認することを強くお勧めします。当方は、第三者のサイトまたはサービスのコンテンツ、プライバシーポリシー、または慣行を管理することはできず、責任を負わないものとします。
 
-### Children’s Privacy
+### 子供のプライバシー
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+当アプリのサービスは13歳未満の方には対応していません。当方は13歳未満の子供から個人を特定できる情報を故意に収集することはありません。
+13歳未満の子供から個人情報が提供されたことが判明した場合は、直ちにサーバーから削除します。
+お客様が親または保護者であり、子供が当方に個人情報を提供したことを知っている場合は、当方が必要な行動をとることができるように連絡をしてください。
 
-### Changes to This Privacy Policy
+### 本プライバシーポリシーの変更
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+プライバシーポリシーは随時更新する場合があります。したがって、変更がないか定期的にこのページを確認することをお勧めします。
+このページに新しいプライバシーポリシーを掲載して、変更を通知いたします。
 
-This policy is effective as of 2021-08-27
+このポリシーは2021月08月27日から有効です。
 
 ### Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at application.20210816@gmail.com.
 
 This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+
+### お問い合わせ
+
+本プライバシーポリシーについて質問や提案がある場合は、application.20210816 @ gmail.comまでお気軽にご連絡ください。
+
+本プライバシーポリシーは[privacypolicytemplate.net](https://privacypolicytemplate.net)で作成され、[App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)によって変更/生成されました。
 
