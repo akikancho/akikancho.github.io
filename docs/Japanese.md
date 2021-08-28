@@ -5,25 +5,29 @@
 当アプリを利用する場合、本プライバシーポリシーに関連する情報の収集と使用に同意するものとします。
 収集した個人情報は、当アプリの提供および改善に使用されます。本プライバシーポリシーに記載されている場合を除き、情報を使用したり、他人と共有することはいたしません。
 
-### Information Collection and Use
+### 情報の収集と使用
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+当アプリを使用している間、アプリケーションの品質向上のため、お客様に特定の個人情報を提供するよう要求することがあります。
+当アプリが要求する情報はお客様のデバイスに保持され、当方が収集することはありません。
 
-The app does use third party services that may collect information used to identify you.
+当アプリは、お客様を識別するために使用される情報を収集する可能性のあるサードパーティのサービスを使用します。
 
-Link to privacy policy of third party service providers used by the app
+アプリが使用するサードパーティのサービスプロバイダーのプライバシーポリシーへのリンク
 
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-### Log Data
+### ログデータ
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+お客様が当アプリを使用する際にアプリでエラーが発生した場合、ログデータと呼ばれるデータと情報を（サードパーティ製品を通じて）収集することをお客様にお知らせすることがあります。
+このログデータには、デバイスのインターネットプロトコル（「IP」）アドレス、デバイス名、オペレーティングシステムのバージョン、当アプリを利用する際のアプリの構成、当アプリの使用日時、その他の統計情報が含まれる場合があります。 
 
 ### Cookies
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Cookieは、匿名の一意の識別子として一般的に使用される少量のデータを含むファイルです。これらは、アクセスしたWebサイトからブラウザに送信され、デバイスの内部メモリに保存されます。
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+当アプリは、これらの「Cookie」を明示的に使用しません。ただし、アプリケーションの品質向上のため、「Cookie」を使用するサードパーティのコードとライブラリを使用する場合があります。
+これらのCookieを受け入れるか拒否するかを選択し、Cookieがデバイスに送信するか否かを選択することが出来ます。
+もし、Cookieを拒否することを選択した場合、本サービスの一部を使用できない場合があります。
 
 ### Service Providers
 
