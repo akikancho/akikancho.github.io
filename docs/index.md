@@ -8,10 +8,10 @@
 &ensp;&ensp;&ensp;&ensp;It is an application that allows you to move to  
 &ensp;&ensp;&ensp;&ensp;the user page you want to check without following SNS.  
 
-&nbsp;&nbsp;*   [SPMT-SNSPostMonitoringTool-](https://itunes.apple.com/jp/app/id1582735087?mt=8)
+*   [SPMT-SNSPostMonitoringTool-](https://itunes.apple.com/jp/app/id1582735087?mt=8)
 
 ### &nbsp;&nbsp;&nbsp;Sports Scorebook
 
 &ensp;&ensp;&ensp;&ensp;It is an application that can record all watching and match results.
 
-&nbsp;&nbsp;*   [Sports Scorebook](https://itunes.apple.com/jp/app/id1606615459?mt=8)
+*   [Sports Scorebook](https://itunes.apple.com/jp/app/id1606615459?mt=8)
