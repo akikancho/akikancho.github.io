@@ -19,7 +19,7 @@
 
 *   [Sports Scorebook](https://itunes.apple.com/jp/app/id1606615459?mt=8)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;Mr.Network（人脈さん）
+### &nbsp;&nbsp;&nbsp;&nbsp;Mr.Network
 ### &nbsp;&nbsp;&nbsp;&nbsp;（人脈さん）
 
 &ensp;&ensp;&ensp;&ensp;It is an application that allows you to easily  
