@@ -1,6 +1,6 @@
 ## &nbsp;&nbsp;&nbsp;akikancho.github.io
 
-&ensp;&ensp;&ensp;&ensp;I am developing an application individually. 
+&ensp;&ensp;&ensp;&ensp;I am developing an application individually.  
 &ensp;&ensp;&ensp;&ensp;If you have an app that interests you, feel free to use it.
 
 ### SPMT-SNSPostMonitoringTool-
