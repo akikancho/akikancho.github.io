@@ -19,7 +19,7 @@
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Mr.Network
 
-&ensp;&ensp;&ensp;&ensp;It is an application that allows you to easily 　
+&ensp;&ensp;&ensp;&ensp;It is an application that allows you to easily  
 &ensp;&ensp;&ensp;&ensp;manage personal connections.
 
 *   [Mr.Network](https://itunes.apple.com/jp/app/id1621511716?mt=8)
