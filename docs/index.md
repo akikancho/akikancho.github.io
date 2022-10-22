@@ -34,3 +34,4 @@
 &ensp;&ensp;&ensp;&ensp;set notifications on the iOS calendar.
 
 *   [Simple Notification](https://itunes.apple.com/jp/app/id1626758027?mt=8)
+ 
