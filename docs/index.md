@@ -26,3 +26,11 @@
 &ensp;&ensp;&ensp;&ensp;manage personal connections.
 
 *   [Mr.Network](https://itunes.apple.com/jp/app/id1621511716?mt=8)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;Simple Notification
+### &nbsp;&nbsp;&nbsp;（ただ通知がしたいだけ）
+
+&ensp;&ensp;&ensp;&ensp;It is an application that allows you to easily  
+&ensp;&ensp;&ensp;&ensp;set notifications on the iOS calendar.
+
+*   [Simple Notification](https://itunes.apple.com/jp/app/id1626758027?mt=8)
