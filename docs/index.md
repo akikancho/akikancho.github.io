@@ -39,7 +39,6 @@
 ### &nbsp;&nbsp;&nbsp;（セーブリンク）
 
 &ensp;&ensp;&ensp;&ensp;It is an application that can manage
-
 &ensp;&ensp;&ensp;&ensp;frequently viewed links collectively.
 
 *   [SaveLink](https://itunes.apple.com/jp/app/id6443965471?mt=8)
