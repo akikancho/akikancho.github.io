@@ -35,3 +35,10 @@
 
 *   [Simple Notification](https://itunes.apple.com/jp/app/id1626758027?mt=8)
  
+### &nbsp;&nbsp;&nbsp;&nbsp;SaveLink
+### &nbsp;&nbsp;&nbsp;（セーブリンク）
+
+&ensp;&ensp;&ensp;&ensp;It is an application that can manage
+&ensp;&ensp;&ensp;&ensp;frequently viewed links collectively.
+
+*   [SaveLink](https://itunes.apple.com/jp/app/id6443965471?mt=8)
